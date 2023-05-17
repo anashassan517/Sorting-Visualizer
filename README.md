@@ -8,7 +8,7 @@ If you wish to run this app locally, clone this repo and install the dependencie
 
 ```
 $ git clone https://github.com/anashassan517/Sorting-Visualizer
-$ cd sort-visualizer
+$ cd Sorting-visualizer
 $ npm install
 ```
 
